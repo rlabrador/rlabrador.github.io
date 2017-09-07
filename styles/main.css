@@ -1,7 +1,8 @@
 html,
 
 header {
-  background-image: url('{{ site.baseurl }}/embed/nv5FMUZczhIJ2');
+  background-image: url('../img/giphy.gif');
+  background-repeat: repeat;
 }
 
 body {
