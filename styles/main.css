@@ -9,7 +9,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(120deg, rgba(252, 232, 195, 0.75) 0%, #8ec5fc 100%);
+  background: url(https://giphy.com/gifs/online-nv5FMUZczhIJ2/tile) no-repeat center center fixed;
+  background-size: cover;
 }
 
 .bio {
