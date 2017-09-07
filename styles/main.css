@@ -1,14 +1,10 @@
 html,
-
-header {
-  background-image: url('../img/giphy.gif');
-  background-repeat: repeat;
-}
-
 body {
   height: 100%;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
+  background-image: url('../img/giphy.gif');
+  background-repeat: repeat; 
 }
 
 body {
