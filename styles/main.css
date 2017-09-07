@@ -1,7 +1,4 @@
-html { 
-  background:  url(https://giphy.com/gifs/online-nv5FMUZczhIJ2/tile) no-repeat center center fixed; 
-  background-size: cover;
-}
+html,
 body {
   height: 100%;
   font-family: 'Roboto', sans-serif;
