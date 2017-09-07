@@ -1,4 +1,9 @@
 html,
+
+header {
+  background-image: url('{{ site.baseurl }}/embed/nv5FMUZczhIJ2');
+}
+
 body {
   height: 100%;
   font-family: 'Roboto', sans-serif;
@@ -9,8 +14,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(https://giphy.com/embed/nv5FMUZczhIJ2) no-repeat center center fixed;
-  background-size: cover;
 }
 
 .bio {
